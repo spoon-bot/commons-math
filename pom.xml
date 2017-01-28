@@ -362,7 +362,7 @@
   <dependencies>
     <dependency>
       <groupId>org.apache.commons</groupId>
-      <artifactId>commons-rng</artifactId>
+      <artifactId>commons-rng-core</artifactId>
       <version>1.0</version>
     </dependency>
 
